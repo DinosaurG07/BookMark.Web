@@ -1,2 +1,2 @@
 # BookMark.Web
-A code for making our own Bookmark website using HTML, CSS, JS.
+A code for making your Bookmark website using HTML, CSS, and JS.
